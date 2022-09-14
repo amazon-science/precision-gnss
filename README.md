@@ -1,4 +1,4 @@
-## My Project
+## Precision GNSS
 
 TODO: Fill this README out!
 
